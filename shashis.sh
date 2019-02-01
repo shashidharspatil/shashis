@@ -1,0 +1,1 @@
+echo "FILE FROM GIT"
